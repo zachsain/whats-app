@@ -1,6 +1,6 @@
 // pages/api/whatsappWebhook.js
 
-import axios from 'axios';
+// import axios from 'axios';
 import { NextApiRequest, NextApiResponse } from 'next';
 
 const token = process.env.WHATSAPP_TOKEN;
